@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448543752473",
+    "project_id": "signin-glucosense",
+    "storage_bucket": "signin-glucosense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448543752473:android:c3cb671cff5b28a0b24588",
+        "android_client_info": {
+          "package_name": "com.example.glucosense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKrJNYgpiETyf8PvZGThahI7hoSLjr_Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

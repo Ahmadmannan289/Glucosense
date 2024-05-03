@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "signin-glucosense",
+  "private_key_id": "eb80c79bc5c147732cdf69ec3759e337355f7319",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqwqHWeFLHFFMT\n/RtpMwkYhwLNzuca+XoxtWvlBcuMrYxuCNQwLcuK87Vxi6pVMZJ0IEfjm7FbuSMn\nAaDqU08jyEXJZFl6Xa0FHfw6nWw3XEr1o2b3BDwL2GZvvl7xCuqw1nImSKxAePAn\nXmWiANKMX+Oa/CODcGLKTr7X1/yvAlydgGYibO/wG/iUpv+uu1Z+WrERmEOhrzfP\nQMG7eJ0seLUeMc370+oboiylwphFCKVg/qWL/b/N+Oi76GBUk+hTIVlQ1zBtlASG\ndVZnYTKZX4HkWNmIYmmsczmIGykoi+c+TQloCY4m0R/9Q5rXbOVQgEQo5dfZgEKN\nqJYkyoEfAgMBAAECggEACnQXzDVZe+52l4arIumI6QN63HaKF1CmdlyQ2lhceaQ2\nMJZBxyFGkJ8SwHy4VLbQLGO9guWJGgBfcofa/f1TnvEntIh8Ic2SRfnr8vqoIUt5\nG0iBiSWtN1xsCPMyhLcSXvkBy+4u/VNqAD77IcvDF+zW1ioRUn6Szae8byI9ycjV\nb8vgd3ZAT5tW4fbW1tbQV/c2u90pD5U++eNR5/EnwrIogZuDoEEAkLvVkWQ41MME\nXJKctJ8imG9SozdhA1gU64gyLAa1ELB9B5/iXAzjPzTzg11I7UEd60Zg/qO1nlE0\nRK2gmeKgz6nYxfI+eaMubKx42drF1gDX9gaQmXNroQKBgQDsZOnaAMiXsTZ5FBuy\nYB/kA55xq5EKXp6f93KxOVjKs7wXgi+wijTdFvmQpVM2rM0XTfJ2Il5UsB20OAt4\nMHavrXuLPtnXklfzZT1drlJewIBl16tWhEjbMUBKPW0tLcI71DEdj4sY7b7TKfcb\n2ha+5dyDci3h1FzeskTWV0RUzQKBgQC47DBv17SxtuEADpmLOM6L01RzRRwYCLll\nG0unJMS49Ssu2ki8eDeg8X2VSZK3i7xgaeSK1dosGefFU3618P9XjhhL4vhtkaDG\nVsJv6+XHlwIoiS5i8x+8JKfQmT8yNxkjQSaPOgrrgWNvzkG/06CsrdYxH6TWk6Sr\nI7cLGI/NmwKBgQDpw8EdO7khiLT9ds0Mz9G5gXqlnauIPZlPRzu71aHgkWxnMu5F\n/eXY3Gdeip6HaspFSWeDOuldhetZ1DJDYGl9wGhzgmuZqbYfkvXkNgZufJ58F5Hv\ntFD3sPSKdcQI8T8qOuN3AAPlWvVhjBY5DKmBjX1K3xZQQ9iywEciTpnb4QKBgAZb\ncErYAok9fTywQ80KdedOq4+O56lX22/DYXVsiSrGmuZwcKGyDE+HHccdEWMn9aDm\n4wl20ppDhbk95pRApbaP1vv84Id7wyguYV7RoEOdSGC2XpbePtAL/ozoR8jlJgMV\nQUsZNrjj6NQ2JgJ/Nv3YuA1WRiduSfHsN2W1QXRTAoGBAIsIh9sBxjXSnC0HhnKf\n4B6LOUzo0pyCcyEjHvrU0uk0FgLIk8DFK8JLi8eLPi3adCgy/V0HVtsEBg2a4oC8\nxFifJqSzzh6aKArjGIXyOv7cYVefKvF3xuRLT/PdckeQiCaqZCeie2pIogBzkjsW\nNo1AXyZxQEltN8yK2dGDiOSB\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-for-storage@signin-glucosense.iam.gserviceaccount.com",
+  "client_id": "107635344719774897873",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-for-storage%40signin-glucosense.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
